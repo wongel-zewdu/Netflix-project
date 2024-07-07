@@ -1,0 +1,41 @@
+.FooterSection {
+  display: flex;
+  justify-content: center;
+  /* padding: 20px; */
+  background-color: #111;
+  color: gray;
+}
+.icons {
+  color: #fff;
+  margin-left: 15px;
+  display: flex;
+  justify-content: space-between;
+  width: 12%;
+}
+
+.FooterList {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  color: gray;
+}
+.ServiceSection {
+  color: gray;
+}
+.Service {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: #fff 1px solid;
+  width: 10%;
+  margin-bottom: 10px;
+}
+.AllFooterSection {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.FooterList li{
+  margin: 10px 0;
+}
